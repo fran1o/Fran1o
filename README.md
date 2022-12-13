@@ -5,10 +5,10 @@
   
   <h2>  Hola, bienvenido a mi Github </h2
 ---
-  <p>
+  <h3>
     
     Mi nombre es Francisco tengo 23 años y soy de Uruguay.
-  </p>
+  </h3>
 </div>
 
 ---
