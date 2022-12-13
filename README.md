@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Fran1o/Fran1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="200" />
+  
+  <h2>  Hola, bienvenido a mi Github </h2
+---
+  <p>
+    
+    Mi nombre es Francisco tengo 23 años y soy de Uruguay.
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- Fui estudiante de la Escuela Universitaria de Musica en Montevideo.
+- Mi instrumento de preferencia es la bateria
+- Estudie en CoderHouse: Desarrollo Web, Javascript, Reacts y Python
+- En el año 2023 comenzare la carrera de Analista en TI en la ORT-Montevideo
+
