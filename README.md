@@ -16,5 +16,5 @@
 - Estudiante de la carrera Analista en Tecnologias de la Informacion en la Universidad ORT.
 - En CoderHouse hice Desarrollo Web, Javascript, Reacts y Python.
 - Termine el CIM completo en la Escuela Universitaria de Musica (Universidad de Bellas Artes).
-- Mi instrumento de preferencia es la bateria.
+
 
