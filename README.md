@@ -9,8 +9,7 @@
   </h3>
  </div>
  <div align="center">
-    
-    <p>
+
     Desde siempre, mi perfil ha estado marcado por un fuerte trasfondo artístico, por lo tanto complete el bachillerato artistico
     y posteriormente realicé el CIM completo en la Escuela Universitaria de Música en Montevideo.
     Esta experiencia me permitió profundizar en mi pasión por la expresión artística a través de la música, 
@@ -27,7 +26,7 @@
     que marcará el cierre de esta etapa educativa.
 
     Posteriormente, planeo especializarme aún más en áreas específicas dentro de las opciones que nos ofrece la Universidad.
-  </p>
+
  </div>
   
 
