@@ -4,11 +4,12 @@
   <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="200" />
   
   <h2>  Bienvenido a mi Github </h2
+  <h3> 
+        Mi nombre es Francisco, tengo 24 años y soy de Uruguay
+  </h3>
  </div>
  <div align="center">
-    <h3> 
-        ¡Hola! Mi nombre es Francisco, tengo 24 años y soy de Uruguay
-    </h3>
+    
     <p>
     Desde siempre, mi perfil ha estado marcado por un fuerte trasfondo artístico, por lo tanto complete el bachillerato artistico
     y posteriormente realicé el CIM completo en la Escuela Universitaria de Música en Montevideo.
