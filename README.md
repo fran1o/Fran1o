@@ -19,6 +19,9 @@
   - Desarrollo Web
   - Javascript
   - Reacts
+    
+ </div>
+  <div>
     Posteriormente, amplié mis habilidades con un curso en Python.
     
     Actualmente estoy cursando el 4to semestre de la carrera de Analista en Tecnologías de la Información en la Universidad ORT,
@@ -27,9 +30,7 @@
 
     Posteriormente, planeo especializarme aún más en áreas específicas dentro de las opciones que nos ofrece la Universidad.
 
- </div>
-  
-
+  </div>
   
 
 
