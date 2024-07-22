@@ -25,7 +25,7 @@ donde completé tres cursos fundamentales: Desarrollo Web, Javascript y Reacts, 
 Actualmente soy estudiante de la carrera Analista en Tecnologías de la Información en la Universidad ORT, 
 donde he fortalecido mis conocimientos relacionados a la programación con distintos lenguajes y bases de datos SQL.
 Estoy muy emocionado por finalizar este 4to semestre para comenzar mi proyecto final, 
-este proyecto me permitirá especializarme aún más en áreas específicas dentro de las opciones que nos ofrece la Universidad, 
+el cual me permitirá realizar una especializacion en áreas específicas dentro de las opciones que nos ofrece la Universidad, 
 marcando el cierre de esta etapa educativa.
 
 </div>
