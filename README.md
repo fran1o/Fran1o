@@ -10,7 +10,7 @@
 ## Mi nombre es Francisco y soy de Uruguay 🇺🇾
 Desde siempre, mi perfil ha estado marcado por un fuerte trasfondo artístico, por lo tanto completé mi bachillerato artístico 
 y posteriormente realicé el CIM completo en la Escuela Universitaria de Música en Montevideo. 
-Esta experiencia me permitió profundizar en mi pasión por la expresión artística a través de la música🎵 
+Esta experiencia me permitió profundizar en mi pasión por la expresión artística a través de la música 🎵 
 además de explorar otros ámbitos artísticos que también me apasionan. 🎨✏️
 
 
