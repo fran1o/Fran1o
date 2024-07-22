@@ -14,8 +14,7 @@
     y posteriormente realicé el CIM completo en la Escuela Universitaria de Música en Montevideo.
     Esta experiencia me permitió profundizar en mi pasión por la expresión artística a través de la música, 
     además de explorar otros ámbitos artísticos que también me apasionan.
-    Decidido a combinar mis habilidades creativas con el mundo digital, 
-    me formé en desarrollo FrontEnd en CoderHouse, donde completé tres cursos fundamentales:
+    Decidido a combinar mis habilidades creativas con el mundo digital, me formé en desarrollo FrontEnd en CoderHouse, donde completé tres cursos fundamentales:
   - Desarrollo Web
   - Javascript
   - Reacts
