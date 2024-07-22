@@ -18,7 +18,7 @@
     donde completé tres cursos fundamentales: Desarrollo Web, Javascript y Reacts, para despues ampliar mis habilidades 
     con el curso de Python.
  </div>
-  <div>
+  <div align="center">
     Actualmente soy estudiante de la carrera Analista en Tecnologías de la Información en la Universidad ORT,
     estoy muy emocionado por finalizar este 4to semestre para comenzar mi proyecto final el cual forma parte del 5to semestre,
     para poder especializarme aun mas en areas especificas dentro de las opciones que nos ofrece la Universidad,
