@@ -1,3 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Presentación en GitHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        /* Otros estilos según necesites */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mi Presentación</h1>
+        <p>¡Hola! Soy Francisco, y aquí está mi presentación...</p>
+        <!-- Contenido de la presentación -->
+    </div>
+</body>
+</html>
 
 
 <div align="center">
